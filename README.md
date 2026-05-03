@@ -25,12 +25,12 @@ Execution is the only bridge between an idea and a business. 🚀
 
 <div align="center">
   <!-- LinkedIn -->
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/ankit-kandwal/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 
   <!-- Twitter / X -->
-  <a href="YOUR_TWITTER_URL" target="_blank">
+  <a href="https://x.com/AnkitSh71128596" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
 
